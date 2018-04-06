@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">461Homework4</string>
+    <string name="geokey">AIzaSyAr4RGylZtbX_o4cOrxXvaTa7s_q6TowHY</string>
+    <string name="mapkey">AIzaSyC7Wth964RQ_EXQ1AO6HOwQ337MjY822_Y</string>
+    <string name="map_loc_hint_txt">Enter Coordinates or Location</string>
+    <string name="map_loc_btn_txt">Find</string>
+</resources>
